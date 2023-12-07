@@ -25,7 +25,7 @@ A developer from Danang Vietnam
 
 <a href="https://github.com/ces-hoangdao" target="blank"><img align="center" src="https://images.unsplash.com/photo-1676724415615-d5fdb7a98d72?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" height="500" /></a>
 
-if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+<!-- if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/tools4dev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=tools4dev&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
+-->

@@ -1,11 +1,11 @@
 ### Hi everyone, I'm Hoang, you can call me Helios 👋
-A developer from Danang Vietnam
+I'm a passionate software engineer who loves to explore new technologies and solve challenging problems. I have a strong background in full-stack development and a keen interest in DevOps and cloud computing.
 
 # 💻 Where to find me:
   
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ces-hoangdao)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/kms-hoangdao)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dvhoang.helios)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/charles-van-goethem/](https://www.linkedin.com/in/dvhoang2106/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dvhoang2106/)
 [![unsplash](	https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white)](https://unsplash.com/@dvhoang2106?fbclid=IwAR2-mgUi71IY8uqjOFsmsOBpQvvofkxdrlAKZEQxEjpyQSvmd4WLvjiABP8)
 
 # 💻 Tech Stack:
@@ -16,14 +16,14 @@ A developer from Danang Vietnam
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ces-hoangdao&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ces-hoangdao&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kms-hoangdao&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ces-hoangdao&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kms-hoangdao&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<a href="https://github.com/ces-hoangdao" target="blank"><img align="center" src="https://images.unsplash.com/photo-1676724415615-d5fdb7a98d72?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" height="500" /></a>
+<a href="https://github.com/kms-hoangdao" target="blank"><img align="center" src="https://images.unsplash.com/photo-1676724415615-d5fdb7a98d72?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" height="500" /></a>
 
 <!-- if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
